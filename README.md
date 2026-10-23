@@ -16,7 +16,9 @@ The work is organised as exploratory, reproducible notebooks rather than a one-c
 
 The final demonstration combines detection, tracking, and homography-based pitch mapping:
 
-[▶ Play or download the final FootballVision demo video (MP4)](https://raw.githubusercontent.com/anishh3/footballvision/main/outputs/Video%20Project%202%20%282%29.mp4)
+[▶ Watch the final FootballVision demo in the browser](https://anishh3.github.io/footballvision/)
+
+[Download the final FootballVision demo video (MP4)](https://raw.githubusercontent.com/anishh3/footballvision/main/outputs/Video%20Project%202%20%282%29.mp4)
 
 [Browse the repository copy](outputs/Video%20Project%202%20%282%29.mp4)
 
