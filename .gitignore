@@ -9,6 +9,7 @@ __pycache__/
 .coverage
 htmlcov/
 notes/.obsidian/
+notes/Pasted image *.png
 
 # Virtual environments and local configuration
 .venv/
