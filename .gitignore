@@ -1,0 +1,43 @@
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+notes/.obsidian/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+*.secret
+secrets/
+
+# Downloaded data and local source media
+data/
+datasets/
+downloads/
+08fd33_4.mp4
+*.avi
+
+# Regenerable model and intermediate artifacts
+weights/*
+!weights/README.md
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.pickle
+*.npz
+runs/
+
+# Generated videos: retain only the public demo in outputs
+outputs/*.mp4
+!outputs/Video Project 2.mp4

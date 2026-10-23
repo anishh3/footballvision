@@ -1,0 +1,14 @@
+ultralytics
+roboflow
+torch
+opencv-python
+numpy
+PyYAML
+matplotlib
+scipy
+scikit-learn
+pandas
+tqdm
+Pillow
+filterpy
+lap
